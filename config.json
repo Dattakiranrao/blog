@@ -1,0 +1,23 @@
+{
+    "params":
+    {
+        "local_server":"True",
+        "local_uri":"mysql://root:@localhost/dattasblog",
+        "prod_uri":"mysql://root:@localhost/dattasblog",
+        "fb_url":"https://www.facebook.com",
+        "tw_url":"https://www.twitter.com",
+        "gh_url":"https://www.github.com",
+        "blog_name":"Datta's blog",
+        "tag_line":"A Blog By DattaKiran Rao",
+        "gmail-user":"",
+        "gmail-pass":"",
+        "about_text":"Hey I am Dattakiran Rao, currently working on the about page",
+        "no_of_posts": 2,
+        "admin_user":"Your user_name",
+        "admin_pass":"Your password",
+        "upload_location":"The place you want to store the files",
+        "error_message":"Please check the details and try again"
+
+    }
+
+}
